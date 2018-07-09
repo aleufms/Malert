@@ -35,5 +35,5 @@ Pod::Spec.new do |s|
     'Malert' => ['Malert/Assets/*.png']
   }
 
-s.dependency 'Cartography', '~> 2.0'
+s.dependency 'Cartography', '~> 3.0'
 end
